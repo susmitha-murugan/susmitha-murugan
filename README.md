@@ -20,9 +20,9 @@
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-
+<P>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=susmitha-murugan&&show_icons=true&count_private=true&theme=dark" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=RishikaGhosh&show_icons=true&theme=tokyonight_duo" alt="anushka23g" />
-
+</P>
 <!-- Let's Connect -->
 ## Let's Connect!
 
