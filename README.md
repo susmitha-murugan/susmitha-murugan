@@ -14,9 +14,7 @@
 <!-- GitHub Stats -->
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=susmitha-murugan&&show_icons=true&count_private=true&theme=dark" />
 
 <!-- Let's Connect -->
 ## Let's Connect!
@@ -41,6 +39,6 @@
   </a>
   &nbsp;
   <a href="https://yourportfolio.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Personal Website" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" alt="Personal Website" width="30" height="30"/>
   </a>
 </p>
