@@ -4,9 +4,11 @@
 # Welcome to my Github Profile! <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Animated banner" >
 ### About me!
 
-- 🚀 A self-motivated Tech Enthusiast and Full Stack Web developer with expertise in Java, JavaScript, and cutting-edge technologies.<br> 
-- I enjoy building robust applications with seamless user experiences.<br>
-- I enjoy building robust applications with seamless user experiences.
+🌟 I'm a Code Connoisseur and Full Stack Sorcerer, weaving simplicity into every digital creation.
+
+💻 With Java and JavaScript as my trusty wands, I conjure sleek solutions and enchanting interfaces.
+
+🎨 Join me in the art of coding, where simplicity meets creativity, and every line tells a story.
 
 <!-- Skills -->
 ## Skills
@@ -19,11 +21,7 @@
 - Frameworks/Libraries: <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img src="https://img.icons8.com/color/48/000000/hibernate.png"/> 
 
 
-<!-- GitHub Stats -->
-## GitHub Stats
-<P>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=susmitha-murugan&&show_icons=true&count_private=true&theme=dark" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=RishikaGhosh&show_icons=true&theme=tokyonight_duo" alt="anushka23g" />
-</P>
+
 <!-- Let's Connect -->
 ## Let's Connect!
 
