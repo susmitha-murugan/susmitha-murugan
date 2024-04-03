@@ -44,7 +44,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Gmail" width="30" height="30"/>
   </a>
   &nbsp;
-  <a href="https://yourportfolio.com](https://susmitha-murugan.neocities.org/website/">
+  <a href="https://susmitha-murugan.neocities.org/website/">
     <img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" alt="Personal Website" width="30" height="30"/>
   </a>
 </p>
